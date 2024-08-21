@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">   
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+        integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+        crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="./styles/style.css">
+    <title>Encriptador de texto</title>
+</head>
+
+<body>
+    <header class="header">
+        <img class="header__img" src="./assets/Logo.png" alt="Logo Alura Latam">
+    </header>    
+    <main class="text">
+        <div class="in__text">
+          <textarea name="in__text" id="text__in" rows="7" placeholder="Ingrese el texto aquí"></textarea>
+          <p class="indication"><img src="./assets/bi_exclamation-circle-fill.png" alt="logo exclamation"> Solo letras minúsculas y sin acentos</p>
+          <div class="btns">
+            <button onclick="encrypt();" class="btn encrypt" id="btn-encrypt">Encriptar</button>
+            <button onclick="decrypt();" class="btn decrypt" id="btn-decrypt">Desencriptar</button>
+          </div>
+        </div>
+        <div class="text__out">
+            <textarea name="texto" id="text__out" rows="7"></textarea>
+            <p class="no__encontrado">Ningun mensaje fue encontrado</p>
+            <p class="mensaje">Ingresa el texto que desees encriptar o desencriptar.</p>
+        </div>
+    </main>
+        <footer class="footer">
+            <p>Copyright &copy; 2024</p>
+            <p>Dasarrolado por Julian Yecid Suarez Londoño</p>
+            <div class="redes">
+              <a href="https://www.linkedin.com/in/julian-suarez-londo%C3%B1o-b517a4158/" target="_blank">
+                <i class="fa-brands fa-linkedin fa-2xl"></i>
+              </a>
+              <a href="https://github.com/jysuarezl" target="_blank">
+                <i class="fa-brands fa-square-github fa-2xl"></i>
+              </a>
+              <a href="https://www.instagram.com/jysuarezl/" target="_blank">
+                <i class="fa-brands fa-square-instagram fa-2xl"></i>
+              </a>
+            </div>
+          </footer>
+<script src="./javascript/app.js"></script>
+</body>
+
+</html>
