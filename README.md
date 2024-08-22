@@ -1,3 +1,5 @@
+![Decodificador de texto](https://github.com/user-attachments/assets/e96849e7-916c-45ac-8d22-049b9eccb707)
+
 # Encriptador de Texto
 
 # Licencia
@@ -57,4 +59,4 @@ Para preguntas o sugerencias, puedes contactarme a través de:
 
 Correo Electrónico: jysuarezl@gmail.com
 LinkedIn: [Julian Suarez](https://www.linkedin.com/in/julian-suarez-londo%C3%B1o-b517a4158/)
-¡Gracias por utilizar Encriptador de Texto! Esperamos que esta herramienta sea útil para tus necesidades de seguridad y privacidad.   
+¡Gracias por utilizar Encriptador de Texto! Esperamos que esta herramienta sea útil para tus necesidades de seguridad y privacidad.  
