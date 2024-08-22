@@ -1,4 +1,8 @@
-![Decodificador de texto](https://github.com/user-attachments/assets/e96849e7-916c-45ac-8d22-049b9eccb707)
+
+<p align="center">
+   <img src="https://github.com/user-attachments/assets/caeb1ef1-8b6a-435c-9ed1-f45b61f49d39"width="250" height="250"> 
+</p>
+
 
 # Encriptador de Texto
 
