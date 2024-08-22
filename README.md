@@ -1,6 +1,7 @@
 # Encriptador de Texto
 
-Licencia
+# Licencia
+
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
 ![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-blue.svg)
 
